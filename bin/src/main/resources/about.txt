@@ -1,0 +1,7 @@
+GT Excel
+0.7.2
+
+Copyright GTAnalysis, Inc. 
+
+http://www.gtanalysis.com/
+info@gtanalysis.com
